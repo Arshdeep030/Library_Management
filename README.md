@@ -16,15 +16,12 @@ The project consists of the following main tables:
 - **issued_status**: Tracks book issues including date, book, employee, and member.
 - **return_status**: Records returned books and return details.
 
----
-
 ## 🛠️ Tasks Breakdown
 
 ### 1. Database Creation & Schema Setup
 - Creation of necessary tables and constraints.
 - Establishment of primary and foreign key relationships.
 
----
 
 ### 2. CRUD Operations
 
@@ -34,13 +31,11 @@ The project consists of the following main tables:
 - **Task 4**: Retrieve all books issued by a specific employee (`emp_id = 'E101'`).
 - **Task 5**: List members who have issued more than one book.
 
----
 
 ### 3. CTAS (Create Table As Select)
 
 - **Task 6**: Create a summary table showing each book and how many times it has been issued.
 
----
 
 ### 4. Data Analysis & Findings
 
@@ -51,7 +46,6 @@ The project consists of the following main tables:
 - **Task 11**: Create a table of books with rental price above a defined threshold.
 - **Task 12**: Retrieve a list of books that have not yet been returned.
 
----
 
 ### 5. Advanced SQL Operations
 
