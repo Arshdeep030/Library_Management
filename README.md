@@ -16,7 +16,7 @@ The project consists of the following main tables:
 - **issued_status**: Tracks book issues including date, book, employee, and member.
 - **return_status**: Records returned books and return details.
 
-## 🛠️ Tasks Breakdown
+## Tasks Breakdown
 
 ### 1. Database Creation & Schema Setup
 - Creation of necessary tables and constraints.
